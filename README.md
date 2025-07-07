@@ -1,6 +1,6 @@
 # vite-template
 
-> **A Vite starter kit with opinionated linting, formatting, and streamlined developer workflows.**
+> **A Vanilla Vite starter kit with opinionated linting, formatting, and streamlined developer workflows.**
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) 
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white)](https://prettier.io/) 
